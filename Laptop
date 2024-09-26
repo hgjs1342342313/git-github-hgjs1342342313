@@ -1,0 +1,6 @@
+#include<laptop.h>
+int main(){
+  printf("Laptop");
+  // What a beautiful day
+  return 0;
+}
